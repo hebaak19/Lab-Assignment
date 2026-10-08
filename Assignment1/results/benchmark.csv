@@ -1,0 +1,8 @@
+operation,pandas_ms,polars_ms,speedup,faster
+read file,786.285,73.28,10.73,polars
+filter,37.856,7.17,5.28,polars
+new column,3.033,1.493,2.03,polars
+group by,77.776,25.99,2.99,polars
+sort + top N,129.074,37.718,3.42,polars
+chained pipeline,1007.509,61.066,16.5,polars
+join,80.71,9.458,8.53,polars
