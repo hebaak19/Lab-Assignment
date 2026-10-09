@@ -14,7 +14,7 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 | Lara Hashem Alalmaei | 2250005629 | Member |
 | Dima Moammer Alabido | 2230009050 | Member |
 | Dhai Waleed Abubakr | 2250003878 | Member |
-| Jana Saeed AlMurayh | XXXXXXXX | Member |
+| Jana Saeed AlMurayh | 2250003042 | Member |
 
 
 > Remove any unused member row if your group has fewer than 6 members.
