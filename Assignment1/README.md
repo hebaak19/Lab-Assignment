@@ -91,7 +91,11 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
+<<<<<<< HEAD
 **Repository:** [Add your GitHub repository link here](https://github.com/hebaak19/Lab-Assignment/tree/main)
+=======
+**Repository:** [Add your GitHub repository link here](https://github.com/hebaak19/Lab-Assignment/)
+>>>>>>> 6bb5766e1ab5f0627789b53ce87d80422edaf7cf
 
 ## Submission
 
