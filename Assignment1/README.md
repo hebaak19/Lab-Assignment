@@ -30,7 +30,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[Add your dataset link here](https://huggingface.co/datasets/aarav912/online-retail)
 
 ##  Requirements
 
@@ -91,7 +91,7 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** [Add your GitHub repository link here](https://github.com/hebaak19/Lab-Assignment/)
 
 ## Submission
 
