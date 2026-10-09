@@ -10,11 +10,11 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-|Heba Adel     | 2250009177 | Leader |
-|Lara Alalmaei |2250005629  | Member |
-|Dima  Alabido |2230009050  | Member |
-|Dhai Abubakr  |2250003878  | Member |
-| Jana AlMurayh|    | Member |
+| Heba Adel Alkatheri | 2250009177 | Leader |
+| Lara Hashem Alalmaei | 2250005629 | Member |
+| Dima Moammer Alabido | 2230009050 | Member |
+| Dhai Waleed Abubakr | 2250003878 | Member |
+| Jana Saeed AlMurayh | XXXXXXXX | Member |
 
 
 > Remove any unused member row if your group has fewer than 6 members.
@@ -30,7 +30,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[Add your dataset link here](https://huggingface.co/datasets/aarav912/online-retail)
 
 ##  Requirements
 
@@ -91,7 +91,7 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** [Add your GitHub repository link here](https://github.com/hebaak19/Lab-Assignment/tree/main)
 
 ## Submission
 
